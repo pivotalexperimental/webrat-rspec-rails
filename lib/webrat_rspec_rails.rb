@@ -1,5 +1,7 @@
 dir = File.dirname(__FILE__)
 
+require "webrat"
+
 require "#{dir}/webrat_rspec_rails/extensions/action_controller_integration_runner"
 require "#{dir}/webrat_rspec_rails/extensions/action_controller_integration_test"
 require "#{dir}/webrat_rspec_rails/extensions/webrat_methods"

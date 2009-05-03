@@ -1,2 +1,3 @@
 .idea
 spec/rails_root/log
+spec/rails_root/db/
