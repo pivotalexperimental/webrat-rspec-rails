@@ -26,3 +26,4 @@ This library allows you to use Webrat with rspec.
 
     sudo gem install pivotal-webrat-rspec-rails --source=http://gems.github.com
 
+Copyright (c) 2010 Pivotal Labs. This software is licensed under the MIT License.
